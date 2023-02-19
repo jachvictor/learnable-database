@@ -1,4 +1,4 @@
-const Database1=[
+const Database1 = [
   {
     name: "Ibelahi Chinedu",
     gender: "male",
@@ -29,7 +29,7 @@ const Database1=[
     score: "75",
     rank: "2500",
     pos: "4",
-    img: "/images/dm.png",
+    img: "/images/ronaldo.png",
   },
   {
     name: "Arnold Ngowi",
@@ -47,6 +47,5 @@ const Database1=[
     pos: "6",
     img: "/images/df.png",
   },
-    
-  ]
-  export default Database1;
+];
+export default Database1;

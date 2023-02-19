@@ -1,6 +1,6 @@
 const Database = [
   {
-    name: "Chukwu jachike",
+    name: "Jachike Victor",
     gender: "male",
     score: "80",
     rank: "2900",
